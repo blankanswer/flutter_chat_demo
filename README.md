@@ -1,6 +1,6 @@
 # flutter_chat_demo
 
-A new Flutter project.
+使用flutter基于chatgpt3.5接口开发的简单ui聊天机器人，魔法上网可用
 
 ## Getting Started
 
