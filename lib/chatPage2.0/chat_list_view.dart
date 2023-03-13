@@ -35,7 +35,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
     final dio = Dio();
     dio.options.headers['Authorization'] =
-        'Bearer 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';
+        'Bearer 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';
     dio.options.headers['Content-Type'] = 'application/json; charset=utf-8';
 
     final response = await dio.post(
